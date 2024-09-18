@@ -37,9 +37,6 @@ section p strong {
 
 img {
   display: block;
-  width: 100%;
-  max-width: 800px;
-  min-width: 400px;
 }
 
 header img {
@@ -59,4 +56,11 @@ nav menu li {
 nav menu li a {
   display: block;
   padding: 10px;
+}
+
+.full-width-image {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  min-width: 400px;
 }
